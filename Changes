@@ -1,6 +1,7 @@
 Revision history for Module-Build-Deprecated
 
 {{$NEXT}}
+          Reenable PodWeaver
 
 0.4208    2014-08-16 13:40:23+02:00 Europe/Amsterdam
           Release without a provides in meta, hopefully this will index
