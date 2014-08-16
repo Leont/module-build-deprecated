@@ -1,6 +1,7 @@
 Revision history for Module-Build-Deprecated
 
 {{$NEXT}}
+          Fix POD issue (Graham Knop)
 
 0.4209    2014-08-16 13:57:23+02:00 Europe/Amsterdam
           Reenable PodWeaver
